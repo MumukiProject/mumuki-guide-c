@@ -1,0 +1,1 @@
+Este es el corolario. Acá haríamos un repaso de lo que implicó el ejercicio.
