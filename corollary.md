@@ -1,0 +1,1 @@
+Corolario. _También_ **acepta** `Markdown`.
