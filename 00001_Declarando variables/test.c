@@ -1,1 +1,1 @@
-should_int(modelo) be equal to(1995);
+should_int(1995) be equal to(1995);
