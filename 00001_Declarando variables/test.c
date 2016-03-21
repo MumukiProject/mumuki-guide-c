@@ -1,4 +1,4 @@
-// it (\"is true\") {\n  should_bool(_true) be truthy;\n} end
-it ("tests the truth") {
-  should_int(1995) be equal to(1995);
+it ("registra vehiculos modelo 95") {
+  modelo = 1995
+  should_int(modelo) be equal to(1995);
 }
