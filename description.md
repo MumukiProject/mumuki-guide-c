@@ -1,1 +1,1 @@
-Descripción. **Acepta** `markdown`.
+Descripción. **Acepta** `markdown`
