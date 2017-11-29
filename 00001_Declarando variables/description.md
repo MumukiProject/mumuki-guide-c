@@ -4,7 +4,7 @@ En un programa C, una variable es una porción de memoria en la que podemos guar
 
 Cada variable debe _declararse_ informando su _tipo de dato_, y luego podrá _asignarse_ y leerse cualquier cantidad de veces.
 
-La sintaxis para declarar variables es simple: `tipo_de_dato nombre_variable;`.
+La sintaxis para declarar variables es simple: `tipo_de_dato_ nombre_variable;`.
 
 Por ejemplo, podríamos declarar una variable numérica que represente la cantidad de ruedas de un vehículo así: `int cantidadDeRuedas;`.
 
